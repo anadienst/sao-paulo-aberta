@@ -1,0 +1,4 @@
+nome = ""
+endereco = ""
+responsavel = ""
+telefone = ""
