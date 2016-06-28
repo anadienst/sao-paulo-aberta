@@ -1,0 +1,8 @@
+nome = ""
+idade = ""
+genero = ""
+grau_de_instrucao = ""
+rg = ""
+cpf = ""
+raca = ""
+endereco = ""
