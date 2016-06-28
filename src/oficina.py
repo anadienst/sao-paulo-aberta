@@ -1,0 +1,7 @@
+categoria = ""
+nome = ""
+duracao = ""
+numeroencontros = ""
+agenteresponsavel =""
+descricao = ""
+infranecessaria = ""
