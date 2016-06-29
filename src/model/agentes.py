@@ -1,12 +1,12 @@
-class agentes():
-    nome = ""
-    telefone = None
-    endereco = None
-    categoria = None
+class Agents:
+    name = ""
+    telephone = ""
+    address = ""
+    category = ""
 
-    def __init__(self, nome, telefone, endereco, categoria):
-        self.nome = nome
-        self.telefone = telefone
-        self.endereco = endereco
-        self.categoria = categoria
+    def __init__(self, name, telephone, address, category):
+        self.name = name
+        self.telephone = telephone
+        self.address = address
+        self.category = category
         pass

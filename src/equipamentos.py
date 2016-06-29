@@ -1,4 +1,4 @@
-nome = ""
-endereco = ""
-responsavel = ""
-telefone_ = ""
+name = ""
+address = ""
+responsable = ""
+telephone = ""
